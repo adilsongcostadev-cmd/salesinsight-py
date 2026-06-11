@@ -97,3 +97,23 @@ Neste projeto, os dados são lidos de um arquivo local CSV. Em um cenário real 
 
 ## 🗺️ Link do Quadro Kanban
 [Acesse o quadro do GitHub Projects](https://github.com/users/ThiOliver/projects/2/views/1)
+---
+
+## 👨‍💻 Contribuição Individual — Adilson Costa
+
+**Nome:** Adilson Guimarães Costa  
+**Função no Squad:** Desenvolvedor — RF11 a RF14  
+**Responsabilidades:**
+- RF11 — Funções Lambda e Funções de Ordem Superior
+- RF12 — Leitura e escrita de arquivos CSV e JSON
+- RF13 — Expressões Regulares (`re.sub`, `re.compile`) para limpeza de dados
+- RF14 — Pipeline Completo (`main()` e `if __name__ == "__main__":`) como ponto de entrada
+
+**GitHub:** [adilsongcostadev-cmd](https://github.com/adilsongcostadev-cmd)  
+**LinkedIn:** [adilsongcosta](https://www.linkedin.com/in/adilsongcosta)  
+**Turma:** SCTEC — Desenvolvedor(a) em IA para Análise Preditiva [T1]  
+
+> *"Este projeto consolidou na prática os principais conceitos do Módulo 1 —  
+> da limpeza de dados à orientação a objetos, do versionamento com Git  
+> à exportação de visualizações. Um marco real na minha jornada em IA."*  
+> — Adilson Costa, junho de 2026
